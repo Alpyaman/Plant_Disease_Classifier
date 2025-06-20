@@ -34,10 +34,10 @@ A deep learning-based image classification project to detect and classify plant 
 
 > These plots are from your Google Colab outputs.
 
-![Frozen Training](assets/mobilenetv2_frozen_accuracy.png)  
+![Frozen Training](mobilenetv2_frozen_accuracy.png)  
 *Training/Validation Accuracy - MobileNetV2 Frozen*
 
-![Finetuned Training](assets/mobilenetv2_finetuned_accuracy.png)  
+![Finetuned Training](mobilenetv2_finetuned_accuracy.png)  
 *Training/Validation Accuracy - MobileNetV2 Fine-tuned*
 
 ---
