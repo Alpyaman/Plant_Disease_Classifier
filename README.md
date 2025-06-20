@@ -32,13 +32,28 @@ A deep learning-based image classification project to detect and classify plant 
 
 ## 📈 Training Curves
 
-> These plots are from your Google Colab outputs.
+> These plots are from my Google Colab outputs.
 
 ![Frozen Training](mobilenetv2_frozen_accuracy.png)  
 *Training/Validation Accuracy - MobileNetV2 Frozen*
 
 ![Finetuned Training](mobilenetv2_finetuned_accuracy.png)  
 *Training/Validation Accuracy - MobileNetV2 Fine-tuned*
+
+---
+
+## Extra Visualizations
+> Initial Model Accuracy
+![Initial Model Accuracy](Initial_Model_Accuracy.png)
+
+> Initial Model Loss
+![Initial Model Loss](Initial_Model_Loss.png)
+
+> Initial Model Confusion Matrix
+![Initial Confusion_Matrix](Initial_Confusion_Matrix.png)
+
+> MobileNetV2 Confusion Matrix
+![MobileNetV2 Confusion Matrix](Confusion_Matrix_MobileNetV2.png)
 
 ---
 
