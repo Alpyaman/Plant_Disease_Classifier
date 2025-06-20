@@ -43,16 +43,21 @@ A deep learning-based image classification project to detect and classify plant 
 ---
 
 ## Extra Visualizations
+
 > Initial Model Accuracy
+
 ![Initial Model Accuracy](Initial_Model_Accuracy.png)
 
 > Initial Model Loss
+
 ![Initial Model Loss](Initial_Model_Loss.png)
 
 > Initial Model Confusion Matrix
+
 ![Initial Confusion_Matrix](Initial_Confusion_Matrix.png)
 
 > MobileNetV2 Confusion Matrix
+
 ![MobileNetV2 Confusion Matrix](Confusion_Matrix_MobileNetV2.png)
 
 ---
